@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ibuki-hum4"><img src="https://img.shields.io/badge/GitHub-ibuki--hum4-0a0a0a?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/ya-hari"><img src="https://img.shields.io/badge/GitHub-ibuki--hum4-0a0a0a?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://ya-hari.skyia.jp"><img src="https://img.shields.io/badge/Portfolio-ya--hari.skyia.jp-E8452C?style=flat-square&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" /></a>
   <a href="https://github.com/Senrijs/Senri"><img src="https://img.shields.io/badge/Building-Senri-E8452C?style=flat-square&labelColor=0a0a0a" alt="Building Senri" /></a>
 </p>
@@ -88,7 +88,7 @@ I care about maintainability, type safety, performance, and practical engineerin
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ibuki-hum4/HoshID">HoshID</a></h3>
+      <h3><a href="https://github.com/ya-hari/HoshID">HoshID</a></h3>
       <p>Self-hosted identity provider (IdP) for authentication and membership management.</p>
       <p>
         <code>Better Auth</code> <code>OpenID Connect</code> <code>OAuth 2.0</code> <code>Kubernetes</code>
@@ -99,7 +99,7 @@ I care about maintainability, type safety, performance, and practical engineerin
         <li>Designed to serve third-party services too</li>
       </ul>
       <p>
-        <a href="https://github.com/ibuki-hum4/HoshID"><img src="https://img.shields.io/github/stars/ibuki-hum4/HoshID?style=flat-square&logo=github&color=E8452C&labelColor=0a0a0a" alt="HoshID Stars" /></a>
+        <a href="https://github.com/ya-hari/HoshID"><img src="https://img.shields.io/github/stars/ya-hari/HoshID?style=flat-square&logo=github&color=E8452C&labelColor=0a0a0a" alt="HoshID Stars" /></a>
       </p>
     </td>
   </tr>
@@ -225,25 +225,25 @@ I care about maintainability, type safety, performance, and practical engineerin
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ibuki-hum4&hide_border=true&background=0a0a0a&ring=E8452C&fire=E8452C&currStreakLabel=E8452C&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=999999" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ibuki-hum4&hide_border=true&background=ffffff&ring=E8452C&fire=E8452C&currStreakLabel=E8452C&sideLabels=0a0a0a&currStreakNum=0a0a0a&sideNums=0a0a0a&dates=6e7781" />
-    <img src="https://streak-stats.demolab.com?user=ibuki-hum4&hide_border=true&background=0a0a0a&ring=E8452C&fire=E8452C&currStreakLabel=E8452C&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=999999" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ya-hari&hide_border=true&background=0a0a0a&ring=E8452C&fire=E8452C&currStreakLabel=E8452C&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=999999" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ya-hari&hide_border=true&background=ffffff&ring=E8452C&fire=E8452C&currStreakLabel=E8452C&sideLabels=0a0a0a&currStreakNum=0a0a0a&sideNums=0a0a0a&dates=6e7781" />
+    <img src="https://streak-stats.demolab.com?user=ya-hari&hide_border=true&background=0a0a0a&ring=E8452C&fire=E8452C&currStreakLabel=E8452C&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=999999" alt="GitHub Streak" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ibuki-hum4&hide_border=true&bg_color=0a0a0a&color=e6e6e6&line=E8452C&point=ffffff&area=true&area_color=E8452C" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ibuki-hum4&hide_border=true&bg_color=ffffff&color=0a0a0a&line=E8452C&point=0a0a0a&area=true&area_color=E8452C" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibuki-hum4&hide_border=true&bg_color=0a0a0a&color=e6e6e6&line=E8452C&point=ffffff&area=true&area_color=E8452C" alt="GitHub Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ya-hari&hide_border=true&bg_color=0a0a0a&color=e6e6e6&line=E8452C&point=ffffff&area=true&area_color=E8452C" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ya-hari&hide_border=true&bg_color=ffffff&color=0a0a0a&line=E8452C&point=0a0a0a&area=true&area_color=E8452C" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ya-hari&hide_border=true&bg_color=0a0a0a&color=e6e6e6&line=E8452C&point=ffffff&area=true&area_color=E8452C" alt="GitHub Activity Graph" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibuki-hum4/ibuki-hum4/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibuki-hum4/ibuki-hum4/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/ibuki-hum4/ibuki-hum4/output/snake-dark.svg" alt="Snake eating my contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ya-hari/ya-hari/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ya-hari/ya-hari/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/ya-hari/ya-hari/output/snake-dark.svg" alt="Snake eating my contribution graph" />
   </picture>
 </p>
 
