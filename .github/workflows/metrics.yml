@@ -28,7 +28,7 @@ jobs:
           committer_token: ${{ github.token }}
           committer_message: "chore: update metrics [skip ci]"
           filename: assets/metrics.svg
-          user: ibuki-hum4
+          user: ya-hari
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Tokyo
